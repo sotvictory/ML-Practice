@@ -32,7 +32,7 @@ Below are the resources I use to study.
 [Special Course: Introduction to ML by Alexander D'yakonov](https://github.com/Dyakonov/IML/tree/master/2021):star::star:`Beginner`<br/>
 [Python Hacks by Alexander D'yakonov](https://github.com/Dyakonov/python_hacks):star::star:`Beginner`<br/>
 [MMP Practicum Fall](https://github.com/mmp-practicum-team/mmp_practicum_fall_2022)<br/>
-[MMP Practicum Fall Youtube](https://www.youtube.com/playlist?list=PLVF5PzSHILHSstCI65QmxMRHhwX4KJ5E1)<br/>
+[MMP Practicum Fall (youtube)](https://www.youtube.com/playlist?list=PLVF5PzSHILHSstCI65QmxMRHhwX4KJ5E1)<br/>
 [MMP Seminars Fall](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022) <br/>
 [MMP Tasks Fall](https://github.com/mmp-practicum-team/mmp_practicum_fall_2022/tree/main/Tasks)<br/>
 [ML Seminars by Evgeny Sokolov](https://github.com/esokolov/ml-course-msu)<br/>
