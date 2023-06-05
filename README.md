@@ -1,5 +1,5 @@
 # Machine Learning Algorithms
-The information presented in this table pertains to my completed and forthcoming projects.
+TODO: The information presented in this table pertains to my completed and forthcoming projects.
 
 | Algorithm | Code | Report | Source |
 | --------- | ---- | ------ | ------ |
@@ -14,10 +14,14 @@ The information presented in this table pertains to my completed and forthcoming
 |||||
 
 # Notebooks
-The following table provides information pertaining to the datasets that I have already examined as well as those that are yet to be analyzed.
+TODO: The following table provides information pertaining to the datasets that I have already examined as well as those that are yet to be analyzed.
 
-| Notebook 	| Dataset 	| Source 	|
-|----------	|---------	|--------	|
-|          	|         	|         |
+| Notebook | Dataset | Source |
+| -------- | ------- | ------ |
+||||
 
+# Courses
+TODO: Below are the resources I use to study the theoretical part of machine learning.
+
+# Papers
 TODO: In order to manage my reading pipeline more effectively, I will maintain a list of the papers I have read and use it as a waiting list for future reading.
