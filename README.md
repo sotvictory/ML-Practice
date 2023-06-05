@@ -24,13 +24,13 @@ TODO: The following table provides information pertaining to the datasets that I
 Below are the resources I use to study.
 
 ## MSU
-[Interfaculty Course: Programming Fundamentals and Data Analysis with Python by Timofey Khirianov](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python)<br/>
-[Interfaculty Course: Mathematics for Data Analysis at MSU by Ivan Oseledets and Aleksandr Katrutsa](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math)<br/>
-[Interfaculty Course: ML for Applied Tasks by Artamonov Sergey](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning)<br/>
-[Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)<br/>
+[Interfaculty Course: Programming Fundamentals and Data Analysis with Python by Timofey Khirianov](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python):star:`Absolute Beginner`<br/> 
+[Interfaculty Course: Mathematics for Data Analysis at MSU by Ivan Oseledets and Aleksandr Katrutsa](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math):star:`Absolute Beginner`<br/>
+[Interfaculty Course: ML for Applied Tasks by Artamonov Sergey](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning):star::star:`Beginner`<br/>
+[Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning):star::star:`Beginner`<br/>
 
-[Special Course: Introduction to ML by Alexander D'yakonov](https://github.com/Dyakonov/IML/tree/master/2021)<br/>
-[Python Hacks by Alexander D'yakonov](https://github.com/Dyakonov/python_hacks)<br/>
+[Special Course: Introduction to ML by Alexander D'yakonov](https://github.com/Dyakonov/IML/tree/master/2021):star::star:`Beginner`<br/>
+[Python Hacks by Alexander D'yakonov](https://github.com/Dyakonov/python_hacks):star::star:`Beginner`<br/>
 [ML for 3rd Course of CMC MSU (All streams)](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23)<br/>
 [ML Course for 3rd Stream of CMC MSU by Alexander D'yakonov](https://github.com/Dyakonov/MSUML)<br/>
 [ML and DM Course for 3rd Stream of CMC MSU by Alexander D'yakonov](https://github.com/Dyakonov/MLDM)<br/>
@@ -39,9 +39,9 @@ Below are the resources I use to study.
 [Bayesian ML Methods by Dmitry Vetrov](https://youtube.com/playlist?list=PLhe7c-LCgl4K-0sJmEu-KVSTVIBt5M8yc)<br/>
 
 ## MIPT
-[AI Start](https://stepik.org/course/125587/)<br/>
-[Course Part 1 by DLS](https://stepik.org/course/135003)<br/>
-[Course Part 2 by DLS](https://stepik.org/course/160792)<br/>
+[AI Start](https://stepik.org/course/125587/):star:`Absolute Beginner`<br/>
+[Course Part 1 by DLS](https://stepik.org/course/135003):star::star:`Beginner`<br/>
+[Course Part 2 by DLS](https://stepik.org/course/160792)<br/>:star::star:`Beginner`<br/>
 
 [ML Course by Radoslav Neychev](https://github.com/neychev/prev__ml-mipt)<br/>
 [ML Course by Radoslav Neychev (girafe-ai)](https://github.com/girafe-ai/ml-course)<br/>
