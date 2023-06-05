@@ -31,13 +31,15 @@ Below are the resources I use to study.
 
 [Special Course: Introduction to ML by Alexander D'yakonov](https://github.com/Dyakonov/IML/tree/master/2021):star::star:`Beginner`<br/>
 [Python Hacks by Alexander D'yakonov](https://github.com/Dyakonov/python_hacks):star::star:`Beginner`<br/>
-[ML Seminars for MMP CMC MSU by Evgeny Sokolov (youtube)](https://youtube.com/playlist?list=PLhe7c-LCgl4K7uHeswQUtYDlIqJOcdrSp)
+[MMP Practicum](https://www.youtube.com/playlist?list=PLVF5PzSHILHSstCI65QmxMRHhwX4KJ5E1)
+[ML Seminars by Evgeny Sokolov](https://github.com/esokolov/ml-course-msu)<br/>
 [ML for 3rd Course of CMC MSU (all streams)](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23)<br/>
 [ML Course for 3rd Stream of CMC MSU by Alexander D'yakonov](https://github.com/Dyakonov/MSUML)<br/>
 [ML Course for 3rd Stream of CMC MSU by Alexander D'yakonov (youtube)](https://youtube.com/playlist?list=PLhe7c-LCgl4Ic-FRawaaEhUmDCQmGMtzx)<br/>
 [ML and DM Course for 3rd Stream of CMC MSU by Alexander D'yakonov](https://github.com/Dyakonov/MLDM)<br/>
 [ML Course for 2nd Stream of CMC MSU by Konstantin Vorontsov](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/2_stream.md)<br/>
 [ML Course by Konstantin Vorontsov (youtube)](https://youtube.com/playlist?list=PLzdAwQrglFyLIM3ZH4iwJ2b2oyQDO054n)<br/>
+[Mathematical Methods of Pattern Recognition for MMP CMC MSU by Evgeny Sokolov (youtube)](https://youtube.com/playlist?list=PLhe7c-LCgl4K7uHeswQUtYDlIqJOcdrSp)<br/>
 [Bayesian ML Methods by Dmitry Vetrov (youtube)](https://youtube.com/playlist?list=PLhe7c-LCgl4K-0sJmEu-KVSTVIBt5M8yc)<br/>
 
 ## MIPT
@@ -53,13 +55,17 @@ Below are the resources I use to study.
 [Seminars on Applied ML Course by Radoslav Neychev (youtube)](https://youtube.com/playlist?list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr)<br/>
 [Mathematical Foundations of ML by Konstantin Vorontsov (youtube)](https://youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08)<br/>
 
-[Applied Data Analysis Course for CMC MSU Master's Degree](https://github.com/Dyakonov/PZAD)
+[Applied Data Analysis Course for CMC MSU Master's Degree](https://github.com/Dyakonov/PZAD)<br/>
 
 ## HSE
+[Intro to ML by Evgeny Sokolov](https://github.com/esokolov/ml-minor-hse)<br/>
 [ML Course by Evgeny Sokolov](https://github.com/esokolov/ml-course-hse)<br/>
 [Fundamentals of ML (youtube)](https://youtube.com/playlist?list=PLEwK9wdS5g0oCRxBzxsq9lkJkzMgzWiyg)<br/>
 
 ## Other
+
+[Open ML course mlcourse.ai](https://ods.ai/tracks/mlcourse_ai):star::star:`Beginner`<br/>
+
 [ML Course by Evgeniy Razinkov (youtube)](https://www.youtube.com/@razinkov/videos)<br/>
 
 [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook#choosing-a-model-architecture)
@@ -74,7 +80,7 @@ is a guide on how to experiment with and tune AI models as efficiently as possib
 [Topics and Research Papers for Students by Alexander D'yakonov](https://github.com/Dyakonov/MSU)<br/>
 [ML Hacks by Alexander D'yakonov](https://github.com/Dyakonov/ml_hacks)<br/>
 
-[ML for SHAD by Konstantin Vorontsov (youtube)](https://youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)
+[ML for SDA by Konstantin Vorontsov (youtube)](https://youtube.com/playlist?list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK)<br/>
 
 # Papers
 TODO: In order to manage my reading pipeline more effectively, I will maintain a list of the papers I have read and use it as a waiting list for future reading.
