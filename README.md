@@ -33,22 +33,31 @@ Below are the resources I use to study.
 [Bayesian ML Methods by Dmitry Vetrov](https://youtube.com/playlist?list=PLhe7c-LCgl4K-0sJmEu-KVSTVIBt5M8yc)<br/>
 
 ## MIPT
+[AI Start](https://stepik.org/course/125587/)<br/>
 [Course Part 1 by DLS](https://stepik.org/course/135003)<br/>
 [Course Part 2 by DLS](https://stepik.org/course/160792)<br/>
 [ML Course by Radoslav Neychev](https://github.com/neychev/prev__ml-mipt)<br/>
-[Lectures on Applied ML Course Part 1 by Radoslav Neychev](https://youtube.com/playlist?list=PL4_hYwCyhAvY7k32D65q3xJVo8X8dc3Ye)<br/>
-[Seminars on Applied ML Course Part 1 by Radoslav Neychev](https://youtube.com/playlist?list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr)<br/>
-[Lectures on Applied ML Course Part 2 by Radoslav Neychev]()<br/>
-[Seminars on Applied ML Course Part 2 by Radoslav Neychev]()<br/>
+[ML Course by Radoslav Neychev (girafe-ai)](https://github.com/girafe-ai/ml-course)<br/>
+[Lectures on ML Course by Radoslav Neychev](https://youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)<br/>
+[Seminars on ML Course by Radoslav Neychev](https://youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z)<br/>
+[Lectures on Applied ML Course by Radoslav Neychev](https://youtube.com/playlist?list=PL4_hYwCyhAvY7k32D65q3xJVo8X8dc3Ye)<br/>
+[Seminars on Applied ML Course by Radoslav Neychev](https://youtube.com/playlist?list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr)<br/>
 [Mathematical Foundations of ML by Konstantin Vorontsov](https://youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08)<br/>
 
 
 ## HSE
 [ML Course by Evgeny Sokolov](https://github.com/esokolov/ml-course-hse)<br/>
-[Fundamentals of ML](https://youtube.com/playlist?list=PLEwK9wdS5g0oCRxBzxsq9lkJkzMgzWiyg)
+[Fundamentals of ML](https://youtube.com/playlist?list=PLEwK9wdS5g0oCRxBzxsq9lkJkzMgzWiyg)<br/>
 
 ## Other
-[ML Course by Evgeniy Razinkov](https://www.youtube.com/@razinkov/videos)
+[ML Course by Evgeniy Razinkov](https://www.youtube.com/@razinkov/videos)<br/>
+
+[Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook#choosing-a-model-architecture)
+This is a guide on how to experiment with and tune AI models as efficiently as possible. It covers topics including: 
+- How to choose the appropriate model architecture for project
+- How to select the optimal optimizer and other hyperparameters
+- Techniques for identifying areas to improve the model's performance
+- Strategies for building a pipeline, determining the appropriate amount of training, and selecting the best checkpoint.
 
 # Papers
 TODO: In order to manage my reading pipeline more effectively, I will maintain a list of the papers I have read and use it as a waiting list for future reading.
