@@ -28,6 +28,7 @@ Below are the resources I use to study.
 [Interfaculty Course: Mathematics for Data Analysis at MSU by Ivan Oseledets and Aleksandr Katrutsa](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math)<br/>
 [Interfaculty Course: ML for Applied Tasks by Artamonov Sergey](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning)<br/>
 [Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)<br/>
+
 [ML Course by Konstantin Vorontsov](https://youtube.com/playlist?list=PLzdAwQrglFyLIM3ZH4iwJ2b2oyQDO054n)<br/>
 [Special Course: Introduction to ML by Alexander D'yakonov](https://youtube.com/playlist?list=PLaRUeIuewv8DYqSdw7uVgLpXSKUFl6Ee6)<br/>
 [Bayesian ML Methods by Dmitry Vetrov](https://youtube.com/playlist?list=PLhe7c-LCgl4K-0sJmEu-KVSTVIBt5M8yc)<br/>
@@ -36,6 +37,7 @@ Below are the resources I use to study.
 [AI Start](https://stepik.org/course/125587/)<br/>
 [Course Part 1 by DLS](https://stepik.org/course/135003)<br/>
 [Course Part 2 by DLS](https://stepik.org/course/160792)<br/>
+
 [ML Course by Radoslav Neychev](https://github.com/neychev/prev__ml-mipt)<br/>
 [ML Course by Radoslav Neychev (girafe-ai)](https://github.com/girafe-ai/ml-course)<br/>
 [Lectures on ML Course by Radoslav Neychev](https://youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj)<br/>
