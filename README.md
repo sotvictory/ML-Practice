@@ -1,4 +1,6 @@
 # Machine Learning Algorithms
+The information presented in this table pertains to my completed and forthcoming projects.
+
 | Algorithm | Code | Report | Source |
 | --------- | ---- | ------ | ------ |
 | Linear Regression |||[Andrew NG](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)|
@@ -12,6 +14,8 @@
 |||||
 
 # Notebooks
+The following table provides information pertaining to the datasets that I have already examined as well as those that are yet to be analyzed.
+
 | Notebook 	| Dataset 	| Source 	|
 |----------	|---------	|--------	|
 |          	|         	|         |
