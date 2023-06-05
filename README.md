@@ -41,7 +41,7 @@ Below are the resources I use to study.
 ## MIPT
 [AI Start](https://stepik.org/course/125587/):star:`Absolute Beginner`<br/>
 [Course Part 1 by DLS](https://stepik.org/course/135003):star::star:`Beginner`<br/>
-[Course Part 2 by DLS](https://stepik.org/course/160792)<br/>:star::star:`Beginner`<br/>
+[Course Part 2 by DLS](https://stepik.org/course/160792):star::star:`Beginner`<br/>
 
 [ML Course by Radoslav Neychev](https://github.com/neychev/prev__ml-mipt)<br/>
 [ML Course by Radoslav Neychev (girafe-ai)](https://github.com/girafe-ai/ml-course)<br/>
