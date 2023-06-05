@@ -29,8 +29,13 @@ Below are the resources I use to study.
 [Interfaculty Course: ML for Applied Tasks by Artamonov Sergey](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning)<br/>
 [Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)<br/>
 
-[ML Course by Konstantin Vorontsov](https://youtube.com/playlist?list=PLzdAwQrglFyLIM3ZH4iwJ2b2oyQDO054n)<br/>
-[Special Course: Introduction to ML by Alexander D'yakonov](https://youtube.com/playlist?list=PLaRUeIuewv8DYqSdw7uVgLpXSKUFl6Ee6)<br/>
+[Special Course: Introduction to ML by Alexander D'yakonov](https://github.com/Dyakonov/IML/tree/master/2021)<br/>
+[Python Hacks by Alexander D'yakonov](https://github.com/Dyakonov/python_hacks)<br/>
+[ML for 3rd Course of CMC MSU (All streams)](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23)<br/>
+[ML Course for 3rd Stream of CMC MSU by Alexander D'yakonov](https://github.com/Dyakonov/MSUML)<br/>
+[ML and DM Course for 3rd Stream of CMC MSU by Alexander D'yakonov](https://github.com/Dyakonov/MLDM)<br/>
+[ML Course for 2nd Stream of CMC MSU by Konstantin Vorontsov](https://github.com/MSU-ML-COURSE/ML-COURSE-22-23/blob/main/2_stream.md)<br/>
+[ML Course by Konstantin Vorontsov (youtube)](https://youtube.com/playlist?list=PLzdAwQrglFyLIM3ZH4iwJ2b2oyQDO054n)<br/>
 [Bayesian ML Methods by Dmitry Vetrov](https://youtube.com/playlist?list=PLhe7c-LCgl4K-0sJmEu-KVSTVIBt5M8yc)<br/>
 
 ## MIPT
@@ -46,6 +51,7 @@ Below are the resources I use to study.
 [Seminars on Applied ML Course by Radoslav Neychev](https://youtube.com/playlist?list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr)<br/>
 [Mathematical Foundations of ML by Konstantin Vorontsov](https://youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08)<br/>
 
+[Applied Data Analysis Course for CMC MSU Master's Degree](https://github.com/Dyakonov/PZAD)
 
 ## HSE
 [ML Course by Evgeny Sokolov](https://github.com/esokolov/ml-course-hse)<br/>
@@ -60,6 +66,11 @@ This is a guide on how to experiment with and tune AI models as efficiently as p
 - How to select the optimal optimizer and other hyperparameters
 - Techniques for identifying areas to improve the model's performance
 - Strategies for building a pipeline, determining the appropriate amount of training, and selecting the best checkpoint.
+
+[Code Victim Visualization by Alexander D'yakonov](https://github.com/Dyakonov/visualization/blob/master/code_victim_visualization.ipynb)<br/>
+[Some Helpful Notebooks to Consider by by Alexander D'yakonov](https://github.com/Dyakonov/notebooks)<br/>
+[Topics and Research Papers for Students by Alexander D'yakonov](https://github.com/Dyakonov/MSU)<br/>
+[ML Hacks by Alexander D'yakonov](https://github.com/Dyakonov/ml_hacks)<br/>
 
 # Papers
 TODO: In order to manage my reading pipeline more effectively, I will maintain a list of the papers I have read and use it as a waiting list for future reading.
