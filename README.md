@@ -21,7 +21,24 @@ TODO: The following table provides information pertaining to the datasets that I
 ||||
 
 # Courses
-TODO: Below are the resources I use to study the theoretical part of machine learning.
+Below are the resources I use to study.
+
+## MSU
+[Interfaculty Course: Programming Fundamentals and Data Analysis with Python by Timofey Khirianov](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python)<br/>
+[Interfaculty Course: Mathematics for Data Analysis at MSU by Ivan Oseledets and Aleksandr Katrutsa](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math)<br/>
+[Interfaculty Course: ML for Applied Tasks by Artamonov Sergey](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning)<br/>
+[Interfaculty Course: Intro to Deep Learning by Radoslav Neychev](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Deep%20Learning)<br/>
+[Special Course: Introduction to ML by Alexander D'yakonov](https://youtube.com/playlist?list=PLaRUeIuewv8DYqSdw7uVgLpXSKUFl6Ee6)<br/>
+
+## MIPT
+[ML Course by Radoslav Neychev](https://github.com/neychev/prev__ml-mipt)<br/>
+[Mathematical Foundations of ML by Konstantin Vorontsov](https://youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08)<br/>
+
+## HSE
+[ML Course by Evgeny Sokolov](https://github.com/esokolov/ml-course-hse)<br/>
+
+## Other
+
 
 # Papers
 TODO: In order to manage my reading pipeline more effectively, I will maintain a list of the papers I have read and use it as a waiting list for future reading.
