@@ -15,3 +15,5 @@
 | Notebook 	| Dataset 	| Source 	|
 |----------	|---------	|--------	|
 |          	|         	|         |
+
+TODO: In order to manage my reading pipeline more effectively, I will maintain a list of the papers I have read and use it as a waiting list for future reading.
