@@ -1,8 +1,8 @@
 # Machine Learning Algorithms
 The information presented in this table pertains to my completed and forthcoming projects.
 
-| Algorithm | Code | Report | Source |
-| --------- | ---- | ------ | ------ |
+| Algorithm | Code | Other |
+| --------- | ---- | ----- |
 | Linear Regression ||
 | Logistic Regression ||
 | Multiclass Classification ||
