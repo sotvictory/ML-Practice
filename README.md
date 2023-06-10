@@ -1,25 +1,3 @@
-# Machine Learning Algorithms
-The information presented in this table pertains to my completed and forthcoming projects.
-
-| Algorithm | Code | Other |
-| --------- | ---- | ----- |
-| Linear Regression ||
-| Logistic Regression ||
-| Multiclass Classification ||
-| K-means ||||
-| K-nearest Neighbours Classification ||
-| Gradient Descent ||
-| Random Forest and Gradient Boosting Regression ||
-| Decision Tree ||||
-|||||
-
-# Notebooks
-TODO: The following table provides information pertaining to the datasets that I have already examined as well as those that are yet to be analyzed.
-
-| Notebook | Dataset | Source |
-| -------- | ------- | ------ |
-||||
-
 # Courses
 Below are the resources I use to study.
 
