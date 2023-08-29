@@ -89,6 +89,5 @@ is a guide on how to experiment with and tune AI models as efficiently as possib
 [IT Job Search (links)](https://github.com/Atmyre/it-job-search)<br/>
 
 # Papers
-In order to manage my reading pipeline more effectively, I will maintain a list of the papers I have read and use it as a waiting list for future reading.
 
 [Bayesian Methods Research Group papers](https://github.com/bayesgroup/papers)<br/>
