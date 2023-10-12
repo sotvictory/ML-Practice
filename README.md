@@ -90,4 +90,5 @@ is a guide on how to experiment with and tune AI models as efficiently as possib
 
 # Papers
 
+[Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)<br/>
 [Bayesian Methods Research Group papers](https://github.com/bayesgroup/papers)<br/>
