@@ -40,8 +40,10 @@ Below are the resources I use to study.
 [ML Mathematical Foundations by Konstantin Vorontsov (youtube)](https://youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08)<br/>
 
 [Extra Materials for MIPT Course (books and links)](https://github.com/Atmyre/open-ml-course/blob/master/extra_materials.md)<br/>
+[ML MIPT + YDF](https://github.com/demidovakatya/mashinnoye-obucheniye/tree/master)<br/>
 
 ## HSE
+[IAD by Evgeny Sokolov](https://github.com/hse-ds/iad-intro-ds/tree/master)<br/>
 [Intro to ML by Evgeny Sokolov](https://github.com/esokolov/ml-minor-hse)<br/>
 [ML Course by Evgeny Sokolov](https://github.com/esokolov/ml-course-hse)<br/>
 [Fundamentals of ML (youtube)](https://youtube.com/playlist?list=PLEwK9wdS5g0oCRxBzxsq9lkJkzMgzWiyg)<br/>
@@ -58,6 +60,9 @@ Below are the resources I use to study.
 [ML Research Seminars (video)](https://disk.yandex.ru/d/IYms19Z954T7AA)<br/>
 
 ## Other
+
+[Coderun](https://coderun.yandex.ru/catalog)<br/>
+[All cups](https://cups.online/ru/tasks/?category=ml&hasSandbox=1)<br/>
 
 [Open ML Course mlcourse.ai](https://ods.ai/tracks/mlcourse_ai):star::star:`Beginner`<br/>
 [Supervised ML: Regression and Classification by Andrew NG](https://www.coursera.org/learn/machine-learning#instructors)<br/>
@@ -84,6 +89,8 @@ is a guide on how to experiment with and tune AI models as efficiently as possib
 - How to select the optimal optimizer and other hyperparameters
 - Techniques for identifying areas to improve the model's performance
 - Strategies for building a pipeline, determining the appropriate amount of training, and selecting the best checkpoint.
+
+[Some ML resources](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie)<br/>
 
 [Resources Collection by Tatiana Gaintseva (books and links)](https://github.com/Atmyre/ml-dl-resources-rus): mathematics, ML/DL articles, ML/DL, programming/CS, soft skills<br/>
 [IT Job Search (links)](https://github.com/Atmyre/it-job-search)<br/>
