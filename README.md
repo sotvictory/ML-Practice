@@ -24,6 +24,7 @@ Below are the resources I use to study.
 [Bayesian ML Methods by Dmitry Vetrov (youtube)](https://youtube.com/playlist?list=PLhe7c-LCgl4K-0sJmEu-KVSTVIBt5M8yc)<br/>
 
 [Applied Data Analysis Course for Master's Degree by Alexander D'yakonov](https://github.com/Dyakonov/PZAD)<br/>
+[MLDM Book by Alexander D'yakonov](https://github.com/Dyakonov/MLDM_BOOK)<br/>
 
 ## MIPT
 [AI Start](https://stepik.org/course/125587/):star:`Absolute Beginner`<br/>
