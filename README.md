@@ -96,5 +96,5 @@ is a guide on how to experiment with and tune AI models as efficiently as possib
 [Resources Collection by Tatiana Gaintseva (books and links)](https://github.com/Atmyre/ml-dl-resources-rus): mathematics, ML/DL articles, ML/DL, programming/CS, soft skills<br/>
 [IT Job Search (links)](https://github.com/Atmyre/it-job-search)<br/>
 
-[Data Analysis by Filipp Ulyankin]([https://github.com/Dyakonov/MSU](https://github.com/hse-econ-data-science/andan2024/tree/main)<br/>
+[Data Analysis by Filipp Ulyankin](https://github.com/hse-econ-data-science/andan2024/tree/main)<br/>
 [Probability Theory and Statistics by Filipp Ulyankin](https://github.com/FUlyankin/matstat-AB)<br/>
