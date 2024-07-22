@@ -2,13 +2,13 @@
 Below are the resources I use to study.
 
 ## MSU
-[Interfaculty Course: Programming Fundamentals and Data Analysis with Python by Timofey Khirianov](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python):star:`Absolute Beginner`<br/> 
-[Interfaculty Course: Mathematics for Data Analysis by Ivan Oseledets and Aleksandr Katrutsa](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math):star:`Absolute Beginner`<br/>
-[Interfaculty Course: ML for Applied Tasks by Artamonov Sergey](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning):star::star:`Beginner`<br/>
+[Interfaculty Course: Programming Fundamentals and Data Analysis with Python by Timofey Khirianov](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Python)<br/>
+[Interfaculty Course: Mathematics for Data Analysis by Ivan Oseledets and Aleksandr Katrutsa](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Math)<br/>
+[Interfaculty Course: ML for Applied Tasks by Artamonov Sergey](https://github.com/MSUcourses/Data-Analysis-with-Python/tree/main/Machine%20Learning)<br/>
 [Interfaculty Course: AI in Chemistry and Materials Science](https://teach-in.ru/course/ai-in-chemistry-and-materials-science/lecture)<br/>
 
-[Special Course: Introduction to ML by Alexander D'yakonov](https://github.com/Dyakonov/IML/tree/master/2021):star::star:`Beginner`<br/>
-[Python Hacks by Alexander D'yakonov](https://github.com/Dyakonov/python_hacks):star::star:`Beginner`<br/>
+[Special Course: Introduction to ML by Alexander D'yakonov](https://github.com/Dyakonov/IML/tree/master/2021)<br/>
+[Python Hacks by Alexander D'yakonov](https://github.com/Dyakonov/python_hacks)<br/>
 [MMP Practicum Fall](https://github.com/mmp-practicum-team/mmp_practicum_fall_2022)<br/>
 [MMP Practicum Fall (youtube)](https://www.youtube.com/playlist?list=PLVF5PzSHILHSstCI65QmxMRHhwX4KJ5E1)<br/>
 [MMP Seminars Fall](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022) <br/>
@@ -27,9 +27,9 @@ Below are the resources I use to study.
 [MLDM Book by Alexander D'yakonov](https://github.com/Dyakonov/MLDM_BOOK)<br/>
 
 ## MIPT
-[AI Start](https://stepik.org/course/125587/):star:`Absolute Beginner`<br/>
-[Course Part 1 by DLS](https://stepik.org/course/135003):star::star:`Beginner`<br/>
-[Course Part 2 by DLS](https://stepik.org/course/160792):star::star:`Beginner`<br/>
+[AI Start](https://stepik.org/course/125587/)<br/>
+[Course Part 1 by DLS](https://stepik.org/course/135003)<br/>
+[Course Part 2 by DLS](https://stepik.org/course/160792)<br/>
 
 [Open ML Course](https://github.com/Atmyre/open-ml-course)<br/>
 [ML Course by Radoslav Neychev](https://github.com/neychev/prev__ml-mipt)<br/>
@@ -65,7 +65,7 @@ Below are the resources I use to study.
 [Coderun](https://coderun.yandex.ru/catalog)<br/>
 [All cups](https://cups.online/ru/tasks/?category=ml&hasSandbox=1)<br/>
 
-[Open ML Course mlcourse.ai](https://ods.ai/tracks/mlcourse_ai):star::star:`Beginner`<br/>
+[Open ML Course mlcourse.ai](https://ods.ai/tracks/mlcourse_ai)<br/>
 [Supervised ML: Regression and Classification by Andrew NG](https://www.coursera.org/learn/machine-learning#instructors)<br/>
 [Data Analysis Examples and Tasks in Python Part 1 by Vadim Abbakumov](https://compscicenter.ru/courses/data-mining-python/2018-spring/)<br/>
 [ML Course by Evgeniy Razinkov (youtube)](https://www.youtube.com/@razinkov/videos)<br/>
@@ -77,10 +77,10 @@ Below are the resources I use to study.
 
 [Topics and Research Papers for Students by Alexander D'yakonov](https://github.com/Dyakonov/MSU)<br/>
 
-[Tinkoff Course for Product Analysis](https://youtube.com/playlist?list=PLW0TR9r0Cc0YhsqTgNodURDGaaN7BkkiG):star:`Beginner`<br/> 
+[Tinkoff Course for Product Analysis](https://youtube.com/playlist?list=PLW0TR9r0Cc0YhsqTgNodURDGaaN7BkkiG)<br/>
 [Sberbank ML Course by Tatiana Gaintseva](https://github.com/Atmyre/Sberbank-ML)<br/>
-[ML Stepik Course](https://stepik.org/course/8057):star:`Absolute Beginner`<br/> 
-[Data Analysis Stepik Course](https://stepik.org/course/126333):star:`Absolute Beginner`<br/> 
+[ML Stepik Course](https://stepik.org/course/8057)<br/>
+[Data Analysis Stepik Course](https://stepik.org/course/126333)<br/>
 
 [Yandex ML Handbook](https://academy.yandex.ru/handbook/ml)<br/>
 
@@ -96,7 +96,5 @@ is a guide on how to experiment with and tune AI models as efficiently as possib
 [Resources Collection by Tatiana Gaintseva (books and links)](https://github.com/Atmyre/ml-dl-resources-rus): mathematics, ML/DL articles, ML/DL, programming/CS, soft skills<br/>
 [IT Job Search (links)](https://github.com/Atmyre/it-job-search)<br/>
 
-# Papers
-
-[Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)<br/>
-[Bayesian Methods Research Group papers](https://github.com/bayesgroup/papers)<br/>
+[Data Analysis by Filipp Ulyankin]([https://github.com/Dyakonov/MSU](https://github.com/hse-econ-data-science/andan2024/tree/main)<br/>
+[Probability Theory and Statistics by Filipp Ulyankin](https://github.com/FUlyankin/matstat-AB)<br/>
